@@ -1,3 +1,4 @@
+//ended up not using this
 package com.example.hongapp2
 
 import androidx.appcompat.app.AppCompatActivity
