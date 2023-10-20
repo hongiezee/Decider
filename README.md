@@ -20,5 +20,5 @@ This Android app allows the user to input 2-4 choices, then the app randomly sel
 
 ## Video Walkthrough
 
-<img src="https://github.com/hongiezee/Decider/assets/130203693/aaa22e50-36f2-4829-bbcd-ee70b524acd0"
+https://github.com/hongiezee/Decider/assets/130203693/aaa22e50-36f2-4829-bbcd-ee70b524acd0
 
