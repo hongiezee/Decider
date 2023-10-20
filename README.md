@@ -7,7 +7,7 @@ If you're ever stuck on a decision, psychologists have found that it can be help
 This Android app allows the user to input 2-4 choices, then the app randomly selects one of the choices.
 
 * The main page has text input fields with a character limit. Clicking away from text input fields closes keyboard.
-* Upon clicking the "decide" button, the app will validate that the two required fields are non-empty (if not, will return message).
+* Upon clicking the "decide" button, the app will validate that input inputted at least two options (if not, will return message).
 * If there are 2 or more choices entered, app will randomly pick one of the non-empty choices and show the "winner" in a new dialog screen
 * Each time the button is clicked, app re-generates a random winner.
 
